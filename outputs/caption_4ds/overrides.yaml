@@ -1,0 +1,2 @@
+- exp.name=caption_4ds
+- model.detector.checkpoint=4ds_detector_path
